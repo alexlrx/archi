@@ -8,7 +8,7 @@ void etiquette( char etiquette[], int i, char tabetiq[100][50], int numetiq[100]
 	int k=0;
 	numetiq[i]=i;
 	while(etiquette[k]!='\0'){
-		printf("%s\n", etiquette[k] ); // 
+		printf("%s\n", "ee"); // 
 		tabetiq[i][k] = etiquette[k];
 		k++;
 	}
