@@ -1,0 +1,3 @@
+ici: XOR R1
+     AND 
+suite: HLT R1 R2
